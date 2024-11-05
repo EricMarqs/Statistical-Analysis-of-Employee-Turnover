@@ -11,7 +11,7 @@
 
 Nos últimos anos, pesquisas indicam que a [taxa de pedidos de demissão voluntária aumentou consideravelmente](https://www.infomoney.com.br/minhas-financas/pedidos-de-demissao-crescem-14-e-chegam-a-42-milhoes-no-primeiro-semestre/). Para que as empresas possam reduzir esses índices, é essencial primeiro compreender os motivos subjacentes a esse fenômeno.
 
-Prevenir demissões voluntárias é crucial, pois a implementação de sistemas de análise de dados pode ajudar a prever possíveis insatisfações entre os funcionários. Isso não apenas minimiza custos associados a processos de seleção extensos, mas também reduz o tempo necessário para a adaptação de novos colaboradores às diretrizes da empresa.
+Prevenir demissões voluntárias é crucial. A implementação de sistemas de análise de dados pode ajudar a prever possíveis insatisfações entre os funcionários. Isso não apenas minimiza custos associados a processos de seleção extensos, mas também reduz o tempo necessário para a adaptação de novos colaboradores às diretrizes da empresa.
 
 O aumento nos pedidos de demissão pode acarretar diversas consequências negativas para as organizações, incluindo:
 
@@ -29,7 +29,7 @@ Os dados são fornecidos gratuitamente pelo [Kaggle](https://opendatacommons.org
 
 In recent years, research indicates that the [rate of voluntary resignation requests has increased considerably](https://www.infomoney.com.br/minhas-financas/pedidos-de-demissao-crescem-14-e-chegam-a-42-milhoes-no-primeiro-semestre/). For companies to reduce these rates, it is essential to first understand the underlying reasons for this phenomenon.
 
-Preventing voluntary resignations is crucial, as the implementation of data analysis systems can help predict potential employee dissatisfaction. This not only minimizes costs associated with extensive hiring processes but also reduces the time required for new employees to adapt to the company's guidelines.
+Preventing voluntary resignations is crucial. The implementation of data analysis systems can help predict potential employee dissatisfaction. This not only minimizes costs associated with extensive hiring processes but also reduces the time required for new employees to adapt to the company's guidelines.
 
 The increase in resignation requests can have various negative consequences for organizations, including:
 
