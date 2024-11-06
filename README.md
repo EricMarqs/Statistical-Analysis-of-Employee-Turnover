@@ -20,7 +20,7 @@ O aumento nos pedidos de demissão pode acarretar diversas consequências negati
 * Despesas com Indenizações e Benefícios: Em algumas situações, a saída de funcionários pode gerar custos adicionais com indenizações e benefícios, especialmente se a demissão não for voluntária.
 * Para a realização deste projeto, utilizaremos um conjunto de dados obtido a partir de um relatório sobre funcionários que está disponível ao público há vários anos. Este conjunto de dados oferece informações valiosas que podem impactar diretamente a satisfação no trabalho e as possíveis motivações para pedidos de demissão.
 
-Os dados são fornecidos gratuitamente pelo [Kaggle](https://opendatacommons.org/licenses/dbcl/1-0/), sendo um conjunto fictício criado por cientistas de dados da IBM.
+Os dados são fornecidos gratuitamente pelo [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data), sendo um conjunto fictício criado por cientistas de dados da IBM.
 
 **Objetivo**: Este projeto visa entender a variável **Attrition** por meio de uma análise estatística, com o intuito de identificar as principais motivações por trás dos pedidos de demissão contidos neste banco de dados.
 
@@ -38,7 +38,7 @@ The increase in resignation requests can have various negative consequences for 
 * Expenses with Severance and Benefits: In some cases, the departure of employees may incur additional costs related to severance and benefits, especially if the resignation is not voluntary.
 * For this project, we will utilize a dataset obtained from a publicly available employee report that has been accessible for many years. This dataset provides valuable information that can directly impact job satisfaction and the possible motivations for resignation requests.
 
-The data is freely provided by [Kaggle](https://opendatacommons.org/licenses/dbcl/1-0/), consisting of a fictional dataset created by data scientists from IBM.
+The data is freely provided by [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data), consisting of a fictional dataset created by data scientists from IBM.
 
 **Objective**: This project aims to understand the **Attrition** variable through statistical analysis, with the intent of identifying the main motivations behind the resignation requests contained in this database.
 
